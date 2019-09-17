@@ -10,6 +10,6 @@ def bark
   puts "woof!"
 end
 end
-
+fido.name
 
 
